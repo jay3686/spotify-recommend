@@ -1,0 +1,20 @@
+{
+  "name": "spotify-recommend",
+  "version": "1.0.0",
+  "description": "api to make music recommendations",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spotify",
+    "recommendation",
+    "music"
+  ],
+  "author": "Jay Patel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4",
+    "unirest": "^0.4.2"
+  }
+}
