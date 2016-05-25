@@ -1,6 +1,6 @@
 {
+  "extends": "airbnb",
   // http://eslint.org/docs/rules/
-
   "ecmaFeatures": {
     "binaryLiterals": false,                    // enable binary literals
     "blockBindings": false,                     // enable let and const (aka block bindings)
